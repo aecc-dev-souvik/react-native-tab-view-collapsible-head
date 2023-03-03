@@ -1,6 +1,6 @@
 {
   "name": "react-native-tab-view-collapsible-head",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,7 +26,7 @@
     "collapsible-header"
   ],
   "peerDependencies": {
-    "react-native-head-tab-view": "^4.0.0-rc.13"
+    "react-native-head-tab-view": "^1.0.0"
   },
   "description": "Extend react-native-tab-view to have shared collapsible headers"
 }
