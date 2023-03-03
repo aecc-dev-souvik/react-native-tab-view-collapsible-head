@@ -1,6 +1,6 @@
 {
   "name": "react-native-tab-view-collapsible-head",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/aecc-dev-souvik/react-native-tab-view-collapsible-head.git"
   },
-  "homepage": "https://github.com/zyslife/react-native-tab-view-collapsible-header#readme",
+  "homepage": "https://github.com/aecc-dev-souvik/react-native-tab-view-collapsible-head#readme",
   "license": "ISC",
   "keywords": [
     "react-native-component",
